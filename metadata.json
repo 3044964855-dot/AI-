@@ -1,0 +1,7 @@
+{
+  "name": "AI口语温柔搭子",
+  "description": "A relaxed English practice app featuring a cartoon Marilyn Monroe avatar powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
